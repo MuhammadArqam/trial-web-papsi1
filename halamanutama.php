@@ -7,21 +7,21 @@
     	
         <div class="container-fluid">
 				<h3 align="center">This My Blog</h3>
-                <h3 align="right"> <a href="">Login</a></h3>
+                <h3 align="right"> <a href="userlogin.php">Login</a></h3>
     <div class="row" style="margin-top:10px"  style=" width:400px">
 		<div class="col-md-12">
 			<ul class="nav nav-tabs">
 				<li class="active">
-					<a href="#">Halaman Utama</a>
+					<a href="halamanutama.php">Halaman Utama</a>
 				</li>
 				<li>
-					<a href="#">Profile</a>
+					<a href="profile.php">Profile</a>
 				</li>
 				<li class="disabled">
-					<a href="#">SEM</a>
+					<a href="sem.php">SEM</a>
 				</li>
                 <li class="disabled">
-					<a href="#">Sistem Informasi</a>
+					<a href="sisteminformasi.php">Sistem Informasi</a>
 				</li>
 				
 					</ul>
